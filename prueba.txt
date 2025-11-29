@@ -1,1 +1,2 @@
+Me comunico de su proveedor de VPS. A continuacion le informamos que esta disponible el nuevo portal de gestion en el cual usted tendra accesos a todos los servicios disponibles y la opcion de enviar por mail las credenciales de accesos a sus servicios. Usted tendra disponibles los servicios de acceso remoto web y la opcion de un portal en donde podra descargar toda la informacion de su servidor. En el acceso a dicho panel dispondra de vinculos que redirigen a dichos portales.
 
